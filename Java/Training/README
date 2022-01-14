@@ -1,1 +1,5 @@
  These files were for training in Java 1.8 SE by themesinc inc and are only used for reference to proof object oriented programming. 
+u00 - contains Examples of object creation and how to access objects in Java
+u01 - Hello World Example and basic usage of System Prinln package and endline functionality
+u02 - basic usage of operators, variables, and Datatypes as well as Symbolic constant usage
+u03 - Functional Programs using
