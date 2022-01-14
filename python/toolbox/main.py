@@ -4,4 +4,4 @@ class toolbox:
 		self.uname = userName
 
 	def fileUpload():
-	    return os.system("sudo ssh -i ~/.ssh/llavePair.pem ubuntu@18.191.173.186")
+	    return os.system("sudo ssh -i <keyPair> username@ip address")
