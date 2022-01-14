@@ -1,5 +1,18 @@
- These files were for training in Java 1.8 SE by themesinc inc and are only used for reference to proof object oriented programming. 
+ These files were for training in Java 1.8 SE by themesinc inc and are only used for reference for proof of object oriented programming concepts 
+ 
 u00 - contains Examples of object creation and how to access objects in Java
 u01 - Hello World Example and basic usage of System Prinln package and endline functionality
 u02 - basic usage of operators, variables, and Datatypes as well as Symbolic constant usage
-u03 - Functional Programs using
+u03 - Functional Programs using, loops, IF statements and Switches
+u04 - use of Static variables and constants. And more examples of Functional Programming
+u05 - String manipulations, isAllDigits function
+u06 - App that manages a classroom attendance
+u07 - room Reservation app for class
+u08 - room Reservation app with Interface example
+u09 - Arrays
+u10 - Code examples of inheritance
+u11 - Multiple classes example
+u12 - Package utilization
+u13 - Exception handeling code
+u14 - Streams and File usage
+u15 - String builders covering multiple datatypes
