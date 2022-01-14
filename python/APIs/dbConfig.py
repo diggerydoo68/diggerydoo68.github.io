@@ -5,7 +5,7 @@ from __future__ import print_function
 import cx_Oracle
 
 def dbcon():
-    connection = cx_Oracle.connect('repadmin/repadm1n@bidwhd1')
+    connection = cx_Oracle.connect('username/domain')
     cur = connection.cursor()
     cur.execute("SELECT 'Hello, World from Oracle DB!' FROM DUAL")
     col = cur.fetchone()[0]
