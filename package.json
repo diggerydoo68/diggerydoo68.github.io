@@ -1,0 +1,25 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.2.0",
+  "description": "A project that does something awesome",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diggerydoo68/Ryan-s-Portfolio.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "related",
+    "words"
+  ],
+  "author": "Ryan Rammll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diggerydoo68/Ryan-s-Portfolio/issues"
+  },
+  "homepage": "https://github.com/diggerydoo68/Ryan-s-Portfolio#readme"
+}
